@@ -1,0 +1,95 @@
+# Bookstore-Revenue-Inventory_Management-analysis
+# 📚 Bookstore Revenue & Inventory Management Analysis (SQL)
+
+## 📖 Project Overview
+
+This project demonstrates SQL-based analysis of a bookstore database using PostgreSQL. It focuses on managing books, customers, and orders while generating meaningful business insights through SQL queries.
+
+The project includes database creation, table relationships, data cleaning, and analytical queries to evaluate sales performance, customer purchasing behavior, inventory status, and revenue generation.
+
+---
+
+## 🎯 Objectives
+
+- Design a relational bookstore database
+- Import and manage bookstore data
+- Establish relationships using Primary & Foreign Keys
+- Perform data validation and cleaning
+- Solve real-world business problems using SQL
+- Generate business insights for decision-making
+
+---
+
+## 🛠️ Tools & Technologies
+
+- PostgreSQL
+- pgAdmin 4
+- SQL
+- CSV Dataset
+- GitHub
+
+---
+
+## 📂 Dataset
+
+The project uses three datasets:
+
+- Books.csv
+- Customers.csv
+- Orders.csv
+
+---
+
+## 📌 Database Schema
+
+The database consists of three tables:
+
+- Books
+- Customers
+- Orders
+
+The tables are connected using Foreign Key relationships.
+
+---
+
+## 💡 SQL Concepts Covered
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- Aggregate Functions
+- JOINS
+- Subqueries
+- Foreign Keys
+- Data Filtering
+- Inventory Analysis
+- Revenue Analysis
+
+---
+
+## 📊 Business Questions Solved
+
+- Retrieve books by genre
+- Find books published after a specific year
+- Calculate total inventory
+- Identify the most expensive book
+- Calculate total revenue
+- Analyze sales by genre
+- Find repeat customers
+- Identify the highest spending customer
+- Determine the most ordered book
+- Calculate remaining inventory after sales
+
+---
+
+## 📈 Key Insights
+
+- Identified top-performing book categories.
+- Analyzed customer purchasing patterns.
+- Calculated total revenue generated.
+- Evaluated inventory availability after fulfilling orders.
+- Identified high-value customers for business growth.
+
+---
